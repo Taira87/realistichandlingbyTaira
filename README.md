@@ -1,3 +1,5 @@
+I will not continue with this project anymore. 
+
 I am honored to introduce you my handling work (about 300+ hours invest in it). This file is focus on Roleplay Server that looking for a natural move (and kinda exaggerated move in a few cases) of the vehicles (visual and physic),
 I developed all of them based in the Real Car, I mean. I investigated about the real car based, and made the handling near to the reality. Be welcome to share your opinion or complains. My inspiration for dev handlings was GTA5Wiseguy , 
 I learned thanks to him (If you see this, thanks to you, I could dev the handlings in my own way ).
